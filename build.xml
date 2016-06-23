@@ -1,9 +1,9 @@
 <project name="hello-world-ant"  default="main">
- 
-  
- 
   <target name="main">
-  <echo>Heloo jenkins new</echo>
+  <echo>Hello jenkins new</echo>
+  </target>
+  <target name="scenario">
+   <echo>Hello Scenarios </echo>
   </target>
  
 </project>
